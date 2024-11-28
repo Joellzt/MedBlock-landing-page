@@ -19,7 +19,9 @@ La página presenta las principales características y beneficios de MedBlock:
 
 - https://joellzt.github.io/MedBlock-landing-page/#
 
-## **Instalación**  
+## **Figma wireframe**
+
+- https://www.figma.com/design/GHsmrwE6fmRfh0prBuMnuy/MedBlock-Landing-Page?node-id=0-1&t=WfZVBAH1bY8jjDGs-1
 
 ### **Requisitos**  
 - Navegador actualizado (Chrome, Firefox, Safari, etc.).  
