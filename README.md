@@ -13,7 +13,11 @@ La página presenta las principales características y beneficios de MedBlock:
 - **Diseño responsivo:** Adaptado a dispositivos móviles, tabletas y escritorios.  
 - **Hero llamativo:** Cautiva a los visitantes con un mensaje claro y una llamada a la acción.  
 - **Sección de funcionalidades:** Resalta las ventajas de la tecnología blockchain en salud.  
-- **Formulario de contacto:** Facilita la interacción con usuarios interesados.  
+- **Formulario de contacto:** Facilita la interacción con usuarios interesados.
+
+## **Deployment:**
+
+- https://joellzt.github.io/MedBlock-landing-page/#
 
 ## **Instalación**  
 
