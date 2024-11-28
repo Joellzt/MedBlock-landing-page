@@ -1,0 +1,177 @@
+.nav-med {
+  z-index: 1000;
+  background-color: rgba(255, 255, 255, 0.499);
+  padding: 10px;
+  border-radius: 10px;
+  border: solid 1px rgba(0, 0, 0, 0.24);
+  position: fixed;
+  top: 50px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 93%;
+}
+.nav-med img {
+  width: 150px;
+}
+
+.letras {
+  font-weight: 600;
+  font-size: 1.4em;
+}
+
+.hero {
+  background: url("../img/hero-img.jpg");
+  padding: 250px 0px;
+  color: #fff;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 40px;
+}
+.hero img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.hero h1 {
+  font-size: 2.5rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+.hero h1 .highligth {
+  font-weight: 750;
+  color: rgb(0, 245, 232);
+}
+.hero p {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  font-weight: 300;
+  font-size: 1.5em;
+  max-width: 780px;
+  margin: auto;
+}
+.hero .btn-primary {
+  margin-top: 40px;
+  border-radius: 15px;
+  background-color: rgb(0, 245, 232);
+  border: none;
+  padding: 20px 30px;
+  font-weight: 600;
+  font-size: 1.4em;
+  color: black;
+}
+
+.med {
+  font-weight: 700;
+}
+
+.asociate {
+  background-color: rgb(110, 234, 234);
+  margin: auto;
+  border-radius: 30px;
+  width: 90%;
+}
+.asociate h2 {
+  font-size: 1.5rem;
+}
+.asociate .btn-outline-primary {
+  border: solid 1px transparent;
+  color: black;
+  background-color: white;
+  margin-bottom: 10px;
+}
+.asociate .btn-outline-primary:hover {
+  background-color: rgb(255, 255, 255);
+  color: black;
+  border: solid 1px black;
+}
+
+.beneficios {
+  background-color: rgb(255, 255, 255);
+}
+.beneficios h2 {
+  font-weight: 600;
+}
+.beneficios .benefit-card {
+  background-color: #40abf2;
+  color: #fff;
+  border-radius: 8px;
+  margin-top: 10px;
+  width: 100%;
+  min-height: 20px;
+}
+.beneficios .benefit-card--mint {
+  background-color: #399EF1;
+  border-radius: 8px;
+  margin-top: 10px;
+  color: #fff;
+  text-align: left;
+  font-weight: 600;
+}
+.beneficios .benefit-card--sky {
+  background-color: #27C9FB;
+  border-radius: 8px;
+  margin-top: 10px;
+  color: #fff;
+  text-align: left;
+  font-weight: 600;
+}
+.beneficios .benefit-card--chelo {
+  background-color: #2bd6c5;
+  border-radius: 8px;
+  margin-top: 10px;
+  color: #fff;
+  text-align: left;
+  font-weight: 600;
+}
+
+.planes-section {
+  background: url("/assets/img/planes-back.png") center/cover no-repeat;
+  color: #fff;
+}
+.planes-section h2 {
+  color: #fff;
+  font-weight: bold;
+}
+.planes-section .card {
+  border: none;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+.planes-section .card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+.planes-section .card .card-img-top {
+  height: 300px;
+  width: 100%;
+  object-fit: cover;
+}
+.planes-section .card .card-title {
+  font-weight: 700;
+  color: #00bcd4;
+}
+.planes-section .card .card-text {
+  color: #555;
+}
+
+.blockchain {
+  background-color: #f4f4f4;
+  padding: 50px 20px;
+}
+
+.container {
+  width: 100%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+/*# sourceMappingURL=main.css.map */
