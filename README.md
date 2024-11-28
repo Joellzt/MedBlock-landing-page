@@ -26,7 +26,7 @@ La página presenta las principales características y beneficios de MedBlock:
 
 1. **Clonar el repositorio:**  
    ```bash  
-   git clone https://github.com/tuusuario/medblock-landing.git  
+   git clone https://github.com/Joellzt/MedBlock-landing-page.git
 
 ### **Herramientas Utilizadas**
 
