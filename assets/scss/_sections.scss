@@ -68,7 +68,9 @@
   
   // Planes Section
   .planes-section {
-    background: url('/assets/img/planes-back.png') center/cover no-repeat; 
+    background: url('/assets/img/planes-back.png') no-repeat; 
+    background-positon: center;
+    background-size: cover;
     min-height: 600px;
     color: #fff;
 
